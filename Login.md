@@ -1,4 +1,4 @@
-# Test Cases - DemoApp
+# Test Cases - DemoApp - Login
 
 ## TC01 - Logowanie z poprawnymi danymi 
 **Cel:** sprawdzenie, czy uytkownik moe się zalogować 
