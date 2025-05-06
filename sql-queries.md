@@ -10,10 +10,9 @@ WHERE Country = 'Germany'
 
 Opis
 - Zapytanie filtruje klientów po kraju 
-
-![Query 1 wynik](assets/query1-germany.png)
 ```
 ```sql
+![Query 1 wynik](assets/query1-germany.png)
 Zapytanie 2 - Utwowy dłuższe niż 5 minut
 
 SELECT Name, Milliseconds
