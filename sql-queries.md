@@ -1,4 +1,5 @@
 ## SQL - zapytania
+![Query 1 wynik](assets/query1-germany.png)
 ```sql
 
 Zapytanie 1 - Klienci z Niemiec
