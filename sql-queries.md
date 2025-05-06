@@ -1,24 +1,19 @@
-## SQL - zapytania
+## SQL – zapytania
+
+### Zapytanie 1 – Klienci z Niemiec
 
 ```sql
-
-Zapytanie 1 - Klienci z Niemiec
-
 SELECT FirstName, LastName, Country
-From customers
-WHERE Country = 'Germany'
+FROM Customer
+WHERE Country = 'Germany';
+```
 
 Opis
 - Zapytanie filtruje klientów po kraju 
 ![Query 1 wynik](assets/query1-germany.png)
-```
-```sql
 
 
-
-
-
-Zapytanie 2 - Utwowy dłuższe niż 5 minut
+## Zapytanie 2 - Utwowy dłuższe niż 5 minut
 
 SELECT Name, Milliseconds
 FROM tracks
