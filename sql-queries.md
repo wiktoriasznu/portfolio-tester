@@ -1,3 +1,5 @@
+## SQL - zapytania
+
 Zapytanie 1 - Klienci z Niemiec
 
 ```sql
@@ -16,5 +18,5 @@ SELECT Name, Milliseconds
 FROM tracks
 WHERE Miliseconds > 300000;
 
-**Opis**
+Opis
 - Weryfikacja, czy system przechowuje czas trwania utworu poprawnie i pozwala go używać jako kryterium filtrowania (edge case: długi utwór).
