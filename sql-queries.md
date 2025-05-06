@@ -10,7 +10,7 @@ WHERE Country = 'Germany'
 Opis
 - Zapytanie filtruje klientów po kraju 
 
-![Wynik zapytania 1](assets/query1-germany.png)
+![Query 1 wynik](assets/query1-germany.png)
 
 ---
 
