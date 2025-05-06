@@ -1,4 +1,4 @@
-# Zapytanie 1 - Klienci z Niemiec
+Zapytanie 1 - Klienci z Niemiec
 
 ```sql
 SELECT FirstName, LastName, Country
@@ -10,7 +10,7 @@ Opis
 
 ---
 
-# Zapytanie 2 - Utwowy dłuższe niż 5 minut
+Zapytanie 2 - Utwowy dłuższe niż 5 minut
 
 SELECT Name, Milliseconds
 FROM tracks
