@@ -12,7 +12,7 @@ Opis
 - Zapytanie filtruje klientów po kraju 
 
 ![Query 1 wynik](assets/query1-germany.png)
-\`
+```
 ```sql
 Zapytanie 2 - Utwowy dłuższe niż 5 minut
 
