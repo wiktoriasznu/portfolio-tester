@@ -14,7 +14,8 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - **HTML / CSS** – samodzielne tworzenie prostych aplikacji do ćwiczeń
 
 ## Co znajdziesz w repozytorium
-- [test-cases.md](./test-cases.md) – przypadki testowe: logowanie, produkty, błędy  
+- [test-cases-login.md](./test-cases-login.md) – przypadki testowe: logowanie  
+- [Products.md](./Products.md) – przypadki testowe: produkty  
 - [bug-report.md](./bug-report.md) – przykład zgłoszenia błędu  
 - [sql-queries.md](./sql-queries.md) – zapytania SQL + opis + wyniki  
 - [test-execution-log.md](./test-execution-log.md) – log z wykonania testów  
