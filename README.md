@@ -17,7 +17,6 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - [`test-execution-log.md`](./test-execution-log.md) – wyniki testów manualnych  
 - [`bug-report.md`](./bug-report.md) – przykład zgłoszenia błędu  
 - [`sql-queries.md`](./sql-queries.md) – zapytania SQL + wyniki  
-- [`test-results-logowanie.md`](./test-results-logowanie.md) – pełne podsumowanie sesji testowej  
 - folder [`assets/`](./assets) – zrzuty ekranu z wynikami testów i błędów
 
 ## 🌐 Mini projekty HTML/CSS
