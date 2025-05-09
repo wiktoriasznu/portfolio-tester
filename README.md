@@ -3,7 +3,7 @@
 Cześć! Nazywam się Wiktoria i stawiam pierwsze kroki w testowaniu oprogramowania.  
 To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuję i dokumentuję proces testowania.
 
-## 🔧 Technologie i narzędzia
+## Technologie i narzędzia
 - **Jira** – zarządzanie testami i zgłoszeniami błędów  
 - **Confluence** – dokumentacja testowa (test plan, logi, raporty)  
 - **GitHub** – wersjonowanie i prezentacja portfolio  
@@ -11,15 +11,17 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - **DB Browser for SQLite** – testowanie zapytań SQL  
 - **SQL (SQLite)** – proste zapytania do analizy danych  
 - **VS Code** – edytor do wszystkiego  
+- **HTML / CSS** – samodzielne tworzenie prostych aplikacji do ćwiczeń
 
-## 📂 Co znajdziesz w repozytorium
-- [`test-cases.md`](./test-cases-login.md) – przypadki testowe (logowanie, koszyk itd.)  
-- [`test-execution-log.md`](./test-execution-log.md) – wyniki testów manualnych  
-- [`bug-report.md`](./bug-report.md) – przykład zgłoszenia błędu  
-- [`sql-queries.md`](./sql-queries.md) – zapytania SQL + wyniki  
+## Co znajdziesz w repozytorium
+- [test-cases-login.md](./Login.md) – przypadki testowe: logowanie  
+- [test-cases-products.md](./Products.md) – przypadki testowe: produkty manualnych  
+- [bug-report.md](./bug-report.md) – przykład zgłoszenia błędu  
+- [sql-queries.md](./sql-queries.md) – zapytania SQL + opis + wyniki  
+- [test-execution-log.md](./test-execution-log.md) – log z wykonania testów  
 - folder [`assets/`](./assets) – zrzuty ekranu z wynikami testów i błędów
 
-## 🌐 Mini projekty HTML/CSS
+## Mini projekty HTML/CSS
 
 Na potrzeby nauki frontendowej stworzyłam kilka prostych aplikacji w HTML i CSS — formularze, przyciski, layouty.
 
