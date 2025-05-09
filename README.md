@@ -13,7 +13,7 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - **VS Code** – edytor do wszystkiego  
 
 ## 📂 Co znajdziesz w repozytorium
-- [`test-cases.md`](./test-cases.md) – przypadki testowe (logowanie, koszyk itd.)  
+- [`test-cases.md`](./test-cases-login.md) – przypadki testowe (logowanie, koszyk itd.)  
 - [`test-execution-log.md`](./test-execution-log.md) – wyniki testów manualnych  
 - [`bug-report.md`](./bug-report.md) – przykład zgłoszenia błędu  
 - [`sql-queries.md`](./sql-queries.md) – zapytania SQL + wyniki  
