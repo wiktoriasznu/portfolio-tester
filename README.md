@@ -19,7 +19,9 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - [bug-report.md](./bug-report.md) – przykład zgłoszenia błędu  
 - [sql-queries.md](./sql-queries.md) – zapytania SQL + opis + wyniki  
 - [test-execution-log.md](./test-execution-log.md) – log z wykonania testów  
+- [`api-tests.md`](./api-tests.md) – testy API wykonane w Postmanie (GET, POST, PUT, DELETE)
 - folder [`assets/`](./assets) – zrzuty ekranu z testów i błędów
+
 
 ## Mini projekty HTML/CSS
 
