@@ -10,6 +10,7 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - **Markdown** – dokumentacja w czytelnej formie  
 - **DB Browser for SQLite** – testowanie zapytań SQL  
 - **SQL (SQLite)** – proste zapytania do analizy danych  
+- **Postman** – testowanie REST API (GET, POST, PUT, DELETE)
 - **VS Code** – edytor do wszystkiego  
 - **HTML / CSS** – samodzielne tworzenie prostych aplikacji do ćwiczeń
 
