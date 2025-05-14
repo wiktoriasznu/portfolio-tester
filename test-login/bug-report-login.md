@@ -8,7 +8,7 @@
 ---
 
 ## 🔁Kroki do odtworzenia
-1. Przejdź na starone logowania 
+1. Przejdź na stronę logowania 
 2. Wpisz poprawny e-mail (np. test@demo.pl)
 3. Pozostaw pole hsało puste 
 4. Kliknij w przcisk "Zaloguj"
@@ -18,7 +18,7 @@
 ## ✅Oczekiwany rezultat:
 Wyświetla się komunikat: **"Hasło jest wymagane"**. Logowanie jest zablokowane.
 
-## ❌Rezcywisty rezultat:
+## Rzeczywisty rezultat:
 Nic się nie dzieje - brak komunikatu, bark akcji
 
 ----
