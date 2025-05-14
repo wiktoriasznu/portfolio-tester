@@ -14,14 +14,29 @@ To repozytorium to efekt mojej samodzielnej pracy — uczę się, eksperymentuj�
 - **VS Code** – edytor do wszystkiego  
 - **HTML / CSS** – samodzielne tworzenie prostych aplikacji do ćwiczeń
 
-## Co znajdziesz w repozytorium
-- [test-cases-login.md](./test-cases-login.md) – przypadki testowe: logowanie  
-- [Products.md](./Products.md) – przypadki testowe: produkty  
-- [bug-report.md](./bug-report.md) – przykład zgłoszenia błędu  
-- [sql-queries.md](./sql-queries.md) – zapytania SQL + opis + wyniki  
-- [test-execution-log.md](./test-execution-log.md) – log z wykonania testów  
-- [api-tests.md](./api-tests.md) – testy API wykonane w Postmanie (GET, POST, PUT, DELETE)
-- folder [assets/](./assets) – zrzuty ekranu z testów i błędów
+## 📁 Co znajdziesz w repozytorium
+
+### 🔐 Logowanie
+- [test-cases-login.md](./test-login/test-cases-login.md) – przypadki testowe: logowanie  
+- [test-execution-log.md](./test-login/test-execution-log.md) – log z wykonania testów  
+- [bug-report-login.md](./test-login/bug-report-login.md) – zgłoszenie błędu (hasło puste)
+
+### 🛒 Sortowanie produktów
+- [test-case-sorting.md](./test-sorting/test-case-sorting.md) – testy sortowania A-Z, Z-A, ceny  
+- [test-execution-sorting.md](./test-sorting/test-execution-sorting.md) – wykonanie testów sortowania  
+- [bug-report-sorting.md](./test-sorting/bug-report-sorting.md) – zbiorcze zgłoszenia 4 błędów sortowania
+
+### 🌐 API
+- [api-tests.md](./api-tests.md) – testy API wykonane ręcznie w Postmanie (GET, POST, PUT, DELETE)
+
+### 🧮 SQL
+- [sql-queries.md](./sql-queries.md) – zapytania SQL + opis + wyniki z Chinook DB
+
+### 📦 Produkty
+- [Products.md](./Products.md) – testy funkcjonalne listy produktów
+
+### 📎 Zrzuty ekranu
+- folder [assets/](./assets) – screenshoty z błędów, wyników zapytań i testów API
 
 
 ## Mini projekty HTML/CSS
