@@ -7,7 +7,7 @@
 1. Wejdź na strone logowania 
 2. Wpisz poprawny e-mail i hasło 
 3. Kliknij "Zaloguj"
-**Oczekiwany rezultat:** Uzytkownik zostaje przeniesiny na stronę główną
+**Oczekiwany rezultat:** Użytkownik zostaje przeniesiny na stronę główną
 
 ---
 
@@ -19,7 +19,7 @@
 2. Wpisz poprawny e-mail, pole hasło pozostaw puste
 3. Kliknij "Zaloguj"
 
-**Oczekiwany rezultat:** Uzytkownik otrzymuje komunikat "Wprowadz hasło"
+**Oczekiwany rezultat:** Użytkownik otrzymuje komunikat "Wprowadz hasło"
 
 
 ---
