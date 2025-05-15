@@ -30,7 +30,7 @@ Produkty wyświetlają się w kolejności niezgodnej z oczekiwanym sortowaniem
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](assets/sort-bug-1.png)
+- [screenshot z błędu](..assets/sort-bug-1.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: New
