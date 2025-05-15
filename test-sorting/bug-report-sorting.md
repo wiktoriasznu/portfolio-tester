@@ -63,7 +63,7 @@ Komunikat “Sorting is broken!” zamiast działania
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](assets/sort-bug-2.png)
+- [screenshot z błędu](../assets/sort-bug-2.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: New
@@ -96,7 +96,7 @@ Produkty wyświetlają się w kolejności niezgodnej z oczekiwanym sortowaniem
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](assets/sort-bug-3.png)
+- [screenshot z błędu](../assets/sort-bug-3.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: New
@@ -129,7 +129,7 @@ Produkty wyświetlają się w kolejności niezgodnej z oczekiwanym sortowaniem
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](assets/sort-bug-4.png)
+- [screenshot z błędu](../assets/sort-bug-4.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: New

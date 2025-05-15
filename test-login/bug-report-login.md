@@ -23,7 +23,7 @@ Nic się nie dzieje - brak komunikatu, bark akcji
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](assets/bug-empty-password.png)
+- [screenshot z błędu](../assets/bug-empty-password.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: Open

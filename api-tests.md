@@ -15,7 +15,7 @@ GET https://jsonplaceholder.typicode.com/posts
 
 **Wynik:**  
  Sukces – otrzymano 100 postów  
-(Screenshot: `assets/api-get-posts.png`)
+![1 wynik](assets/api-get-posts.png)
 
 ---
 
@@ -30,7 +30,7 @@ GET https://jsonplaceholder.typicode.com/users/1
 
 **Wynik:**  
  Sukces – poprawne dane użytkownika  
-(Screenshot: `assets/api-get-user1.png`)
+![2 wynik](assets/api-get-user1.png)
 
 ---
 
@@ -53,7 +53,7 @@ POST https://jsonplaceholder.typicode.com/posts
 
 **Wynik:**  
 Sukces – otrzymano nowy post z id  
-(Screenshot: `assets/api-post-create.png`)
+![3 wynik](assets/api-post-create.png`)
 
 ---
 
@@ -77,7 +77,7 @@ PUT https://jsonplaceholder.typicode.com/posts/1
 
 **Wynik:**  
 Sukces – odpowiedź zgodna z requestem  
-(Screenshot: `assets/api-put-update.png`)
+![4 wynik](assets/api-put-update.png)
 
 ---
 
@@ -92,6 +92,6 @@ DELETE https://jsonplaceholder.typicode.com/posts/1
 
 **Wynik:**  
 Sukces – status poprawny  
-(Screenshot: `assets/api-delete.png`)
+![5 wynik](assets/api-delete.png)
 
 ---
