@@ -21,7 +21,7 @@ Ikony podglądu nachodzą na inne elementy formularza i zlewają się z treści�
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](../../assets/bloom- password.png)
+- [screenshot z błędu](../../assets/bloom-password.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: Open
