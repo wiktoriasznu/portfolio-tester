@@ -1,4 +1,4 @@
-# BUG - 001 - Formularz zmiany hasła
+# BUG - 001 - Formularz zmiany hasła: błędne pozycjonowanie ikon podglądu (mobile)
 
 **Środowisko**
 - Chrome DevTools (responsive mode)
@@ -6,28 +6,29 @@
 ---
 
 ## 🔁Kroki do odtworzenia
-1. Wejdź w kokpit profilu
-2. Przejdź do "Szczegóły konta"
-3. Przełącz widok na 360px szerokości (np. iPhone 12)
-4. Weryfikacja miejsca przycisków do podglądu hasła
+1. Zaloguj się na konto
+2. Przejdź do "Szczegóły konta" w panelu uytkownika
+3. Przełącz widok na 360px (np. iPhone 12)
+4. Zweryfikuj pozycję ikon podglądu hasła w formularzu
+
 ----
 
 ## ✅Oczekiwany rezultat:
-Przyciski znajdują się w odpowiednim miejscu
+Ikony „pokaż/ukryj hasło” są prawidłowo wyrównane względem pól tekstowych
 
 ## Rzeczywisty rezultat:
-Przyciski przyciski nachodzą na inne elemty formularza
+Ikony podglądu nachodzą na inne elementy formularza i zlewają się z treścią
 
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](../assets/bloom-password.png)
+- [bloom-password.png](../assets/bloom-password.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: Open
 
 ----
 
-# BUG - 002 - Obrót ekranu mobile
+# BUG-002 – Elementy stopki nachodzące na siebie po obrocie ekranu (mobile)
 
 **Środowisko**
 - Chrome DevTools (responsive mode)
@@ -35,20 +36,20 @@ Przyciski przyciski nachodzą na inne elemty formularza
 ---
 
 ## 🔁Kroki do odtworzenia
-1. Wejdź na główna stornę
-3. Przełącz widok na 360px szerokości (np. iPhone 12)
-2. Obrót ekranu
-4. Przejscie do stópki 
+1. Wejdź na stronę główną
+3. Przełącz widok na 360px (np. iPhone 12)
+2. Obróć ekran z portrait na landscape
+4. Przewiń do sekcji stopki
 ----
 
 ## ✅Oczekiwany rezultat:
-Układ strony dostosowuje się do nowej orientacji bez błędów
+Elementy stopki reorganizują się w poziomie lub kolumnach bez kolizji
 
 ## Rzeczywisty rezultat:
-Informacje zawarte w stópce nie dostosowują się (nachodzą na siebie)
+Bloki tekstu i linki nachodzą na siebie – nieczytelne UI
 ----
 ## 🧷 Załączniki:
-- [screenshot z błędu](../assets/fotter-bloom.png)
+- [fotter-bloom.png](../assets/fotter-bloom.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: Open
