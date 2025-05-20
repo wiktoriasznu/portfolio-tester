@@ -1,4 +1,4 @@
-# BUG-001 – Niski kontrast i niejednolity styl przycisku „Dodaj do koszyka”
+# BUG-01 – Niski kontrast i niejednolity styl przycisku „Dodaj do koszyka”
 
 **Środowisko**  
 - Chrome 135.0.7049.114 (Official Build)  
