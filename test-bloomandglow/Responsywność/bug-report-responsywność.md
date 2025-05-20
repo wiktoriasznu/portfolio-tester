@@ -21,7 +21,7 @@ Ikony podglądu nachodzą na inne elementy formularza i zlewają się z treści�
 
 ----
 ## 🧷 Załączniki:
-- [bloom-password.png](../../assets/bloom-password.png)
+- ![bloom-password.png](../../assets/bloom-password.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: Open
@@ -49,7 +49,7 @@ Elementy stopki reorganizują się w poziomie lub kolumnach bez kolizji
 Bloki tekstu i linki nachodzą na siebie – nieczytelne UI
 ----
 ## 🧷 Załączniki:
-- [fotter-bloom.png](../../assets/fotter-bloom.png)
+- ![fotter-bloom.png](../../assets/fotter-bloom.png)
 
 ## 🏷 Priorytet: Medium  
 ## 🔧 Status: Open
