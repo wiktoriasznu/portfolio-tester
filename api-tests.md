@@ -53,7 +53,7 @@ POST https://jsonplaceholder.typicode.com/posts
 
 **Wynik:**  
 Sukces – otrzymano nowy post z id  
-![3 wynik](assets/api-post-create.png`)
+![3 wynik](assets/api-post-create.png)
 
 ---
 
